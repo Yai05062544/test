@@ -4,7 +4,7 @@
         <div class="h-8 text-lg font-semibold">Header Text</div>
       </template>
       <div class="h-32 text-xl font-bold leading-7">
-        Taet Nuxt
+        Test Nuxt
       </div>
       <template #footer>
         <div class="h-8 text-sm font-medium">Footer Text</div>
